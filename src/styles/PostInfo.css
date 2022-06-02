@@ -1,0 +1,146 @@
+.postinfo {
+    border: 1px solid #000;
+    min-width: 300px;
+    max-width: 500px;
+    padding: 15px 35px;
+    margin: 25px 10px;
+}
+
+.post-title {
+    font-weight: bold;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+.post-body {
+    font-size: 12px;
+    color: gray;
+    margin-bottom: 15px; 
+}
+
+.postinfo-btn {
+    height: 35px;
+    min-width: 150px;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 0 20px;
+    cursor: pointer;
+}
+
+.post-wrapper {
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
+.post-wrapper h2 {
+    margin-bottom: 10px; 
+}
+
+.comm-wrapper {
+    margin-top: 25px;
+    padding: 10px 20px;
+    border: 1px solid #000;
+}
+
+.comment-btn {
+    height: 35px;
+    min-width: 150px;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 0 20px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.post-text {
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.postinfo-active {
+    border: 2px solid #000;
+    min-width: 300px;
+    max-width: 500px;
+    padding: 15px 35px;
+    margin: 25px 10px;
+}
+
+.post-title-active {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.post-body-active {
+    font-size: 20px;
+    color: rgb(68, 67, 67);
+    margin-bottom: 15px; 
+}
+
+.postinfo-btn-active {
+    height: 45px;
+    min-width: 150px;
+    border: none;
+    background-color: rgb(238, 56, 56);
+    color: rgb(10, 10, 10);
+    font-size: 25px;
+    font-weight: 500;
+    padding: 0 20px;
+    cursor: pointer;
+}
+
+.post-wrapper-active {
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
+.post-wrapper-active h2{
+    font-size: 40px;
+}
+
+.post-wrapper-active h3{
+    font-size: 30px;
+}
+
+.post-wrapper-active h4{
+    font-size: 25px;
+}
+
+.post-wrapper-active h5{
+    font-size: 20px;
+}
+
+.post-text-active {
+    font-size: 30px;
+    margin-top: 25px;
+}
+
+.comm-wrapper-active {
+    margin-top: 25px;
+    padding: 10px 20px;
+    border: 2px solid rgb(238, 38, 38);
+}
+
+.comment-btn-active {
+    min-height: 55px;
+    min-width: 150px;
+    border: none;
+    background-color: rgb(241, 52, 52);
+    color: rgb(8, 8, 8);
+    font-size: 25px;
+    font-weight: 500;
+    padding: 0 20px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
